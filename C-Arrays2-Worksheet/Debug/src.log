@@ -1,0 +1,17 @@
+﻿Build started 11-07-2017 23:31:21.
+     1>Project "D:\rnd\project 5\src\src.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\rnd\project 5\Debug\src.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\rnd\project 5\Debug\src.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\rnd\project 5\Debug\src.lib" /MACHINE:X86 Debug\ArraySequences.obj
+         Debug\countGreaterNumbers.obj
+         Debug\findSingleOccurenceNumber.obj
+         Debug\MainTest.obj
+         Debug\mergeSortedArrays.obj
+         Debug\PHeights.obj
+         Debug\NWar.obj
+         Debug\sortedArraysCommonElements.obj
+         src.vcxproj -> D:\rnd\project 5\Debug\src.exe
+     1>Done Building Project "D:\rnd\project 5\src\src.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60
